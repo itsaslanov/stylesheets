@@ -9,6 +9,6 @@ If you don't trust in, try for free :fire:
 First of all, just check this out what is going on inside of the stylesheets folder by seeing below the pic  :point_down:
 <br/>
 <br/>
-<img src="https://user-images.githubusercontent.com/95647896/162169281-f7dc96b1-e297-485d-8f78-9d8d5e5bd721.png" width="400" height="1000">
+<img src="https://user-images.githubusercontent.com/95647896/162169281-f7dc96b1-e297-485d-8f78-9d8d5e5bd721.png">
 
 ![stylesheetsforsmall](https://user-images.githubusercontent.com/95647896/162183149-5029fc79-0839-47d1-b454-a8236967210b.png)

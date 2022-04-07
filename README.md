@@ -12,7 +12,7 @@ As you can see the picture, which shows the path of the stylesheet, is pretty cl
 - Base: contained within this file are all your resets, variables, mixins, and any utility classes. <br/>
 - Layout: contains all the CSS that handles the layout, such as the container and any grid systems. <br/>
 - Components: anything reusable such as buttons, navbars, cards etc. <br/>
-- Main: it should ONLY contain the imports for the above files. <br/>
+- Main: it should ONLY contain the imports for the above files. <br/><br/>
 
 `NOTE` in this repo, only stylesheets, in which are used for big projects, exist. Hence, just do it on your own <br/>
 Create folder called whatever you want, but stylesheet sounds like cool. Right After, inside of that folder, just add 3 partials as the picture shows <br/>

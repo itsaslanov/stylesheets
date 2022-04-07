@@ -8,7 +8,6 @@ If you don't trust in, try for free :fire:
 ## First approach
 <img src="https://user-images.githubusercontent.com/95647896/162183149-5029fc79-0839-47d1-b454-a8236967210b.png" width="70%">
 <br/>
-<br/>
 As you can see the picture, which shows the path of the stylesheet, is pretty clear to follow.
 
 

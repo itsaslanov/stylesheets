@@ -55,11 +55,11 @@ First of all, just check this out what is going on inside of the stylesheets fol
 # Also Bonus files :fire:
 in the stylesheet file, CSS MODERN RESET, PX TO REM FUNCTIONS and BREAKPOINTS exist. that is really dope isn't it? So, what are you waiting for? Go ahead, use it :smile:
 
-if you do not know none of the bonus files, check this out :point_down:!
+if you do not know none of the bonus files, check this out :point_down:! <br/>
 
-CSS RESET https://piccalil.li/blog/a-modern-css-reset/ 
-PX TO REM https://css-tricks.com/snippets/sass/px-to-em-functions/
-BREAKPOINTS https://github.com/nirazul/include-media-or
+CSS RESET https://piccalil.li/blog/a-modern-css-reset/ <br/>
+PX TO REM https://css-tricks.com/snippets/sass/px-to-em-functions/ <br/>
+BREAKPOINTS https://github.com/nirazul/include-media-or <br/>
 
 also thanks to https://sass-guidelin.es/ 👍
 

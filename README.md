@@ -13,13 +13,11 @@ If you don't trust in, try for free. It is absolutely friendly open-source, so f
 
 <img src="https://user-images.githubusercontent.com/95647896/162183149-5029fc79-0839-47d1-b454-a8236967210b.png" width="70%">
 As you can see the picture, which shows the path of the stylesheet, is pretty clear to follow right? <br/>
-<p>
     - Here we have 3 partials connecting up to our main.scss. <br/>
     - Base: contained within this file are all your resets, variables, mixins, and any utility classes. <br/>
     - Layout: contains all the CSS that handles the layout, such as the container and any grid systems. <br/>
     - Components: anything reusable such as buttons, navbars, cards etc. <br/>
     - Main: it should ONLY contain the imports for the above files. <br/><br/>
-</p>
 
 `NOTE` in this repo, only stylesheets, in which are used for big projects, exist. Hence, just do it on your own <br/>
 Create folder called whatever you want, but stylesheets sound like cool. Right After, inside of that folder, just add 3 partials as the picture shows <br/>
@@ -37,3 +35,18 @@ First of all, just check this out what is going on inside of the stylesheets fol
 <img src="https://user-images.githubusercontent.com/95647896/162169281-f7dc96b1-e297-485d-8f78-9d8d5e5bd721.png" width="70%">
 
 <b>Abstracts (or utilities):</b> holds Sass tools, helper files, variables, functions, mixins and other config files. These files are meant to be just helpers which don’t output any CSS when compiled.
+
+<b>Base:</b> holds the boilerplate code for the project. Including standard styles such as resets and typographic rules, which are commonly used throughout your project.
+
+<b>Components (or modules):</b> holds all of your styles for buttons, carousels, sliders, and similar page components (think widgets). Your project will typically contain a lot of component files — as the whole site/app should be mostly composed of small modules.
+
+<b>Layout:</b> contains all styles involved with the layout of your project. Such as styles for your header, footer, navigation and the grid system.
+
+<b>Pages:</b> any styles specific to individual pages will sit here. For example it’s not uncommon for the home page of your site to require page specific styles that no other page receives.
+
+<b>Themes:</b> this is likely not used in many projects. It would hold files that create project specific themes. For example if sections of your site contain alternate color schemes.
+
+<b>Vendors:</b> contains all third party code from external libraries and frameworks — such as Normalize, Bootstrap, jQueryUI, etc.
+
+<b>Main.scss:</b> This file should only contain your imports! For example...
+

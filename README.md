@@ -1,6 +1,7 @@
 # Structuring Sass projects with partials
-This divides 2 parts, <u>first approach</u> is for small projects such as a single web page, landing page etc... <br/>
-as far as second one goes is for big projects like blog sites, news sites and such a kind of projects.
+- This divides 2 parts, 
+- first approach is for small projects such as a single web page, landing page etc...
+- as far as second one goes is for big projects like blog sites, news sites and such a kind of projects.
 
 
 ## why do you need this?

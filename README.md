@@ -48,6 +48,7 @@ First of all, just check this out what is going on inside of the stylesheets fol
 
 <b>Vendors:</b> contains all third party code from external libraries and frameworks — such as Normalize, Bootstrap, jQueryUI, etc.
 
-<b>Main.scss:</b> ![main](https://user-images.githubusercontent.com/95647896/162190254-a5b1a1c6-3962-4f3c-8c05-93239359c5a1.png)
-This file should only contain your imports! For example...
+<b>Main.scss:</b> This file should only contain your imports! For example...
+
+<img src="https://user-images.githubusercontent.com/95647896/162190254-a5b1a1c6-3962-4f3c-8c05-93239359c5a1.png" width="70%">
 

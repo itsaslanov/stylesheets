@@ -12,3 +12,10 @@
 @use './themes';
 // you can add css frameworks into vendors file.
 // @use './vendors'; 
+
+/* Set core body defaults */
+body {
+    min-height: 100vh;
+    text-rendering: optimizeSpeed;
+    line-height: 1.5;
+}

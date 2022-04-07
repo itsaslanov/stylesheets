@@ -11,7 +11,7 @@ If you don't trust in, try for free. It is absolutely friendly open-source, so f
 
 ## First approach :rocket:
 
-<img src="https://user-images.githubusercontent.com/95647896/162183149-5029fc79-0839-47d1-b454-a8236967210b.png" width="100%">
+<img src="https://user-images.githubusercontent.com/95647896/162183149-5029fc79-0839-47d1-b454-a8236967210b.png" width="80%">
 As you can see the picture, which shows the path of the stylesheet, is pretty clear to follow right? <br/>
     - Here we have 3 partials connecting up to our main.scss. <br/>
     - Base: contained within this file are all your resets, variables, mixins, and any utility classes. <br/>
@@ -32,7 +32,7 @@ Here’s a sample 7–1 directory structure, I’ve included some examples of fi
 
 First of all, just check this out what is going on inside of the stylesheets folder by seeing below the pic :point_down:
 
-<img src="https://user-images.githubusercontent.com/95647896/162169281-f7dc96b1-e297-485d-8f78-9d8d5e5bd721.png" width="100%">
+<img src="https://user-images.githubusercontent.com/95647896/162169281-f7dc96b1-e297-485d-8f78-9d8d5e5bd721.png" width="80%">
 
 <b>Abstracts (or utilities):</b> holds Sass tools, helper files, variables, functions, mixins and other config files. These files are meant to be just helpers which don’t output any CSS when compiled.
 
@@ -50,7 +50,7 @@ First of all, just check this out what is going on inside of the stylesheets fol
 
 <b>Main.scss:</b> This file should only contain your imports! For example...
 
-<img src="https://user-images.githubusercontent.com/95647896/162190254-a5b1a1c6-3962-4f3c-8c05-93239359c5a1.png" width="100%">
+<img src="https://user-images.githubusercontent.com/95647896/162190254-a5b1a1c6-3962-4f3c-8c05-93239359c5a1.png" width="80%">
 
 # Also Bonus files :fire:
 in the stylesheet file, CSS MODERN RESET, PX TO REM FUNCTIONS and BREAKPOINTS exist. that is really dope isn't it? So, what are you waiting for? Go ahead, use it :smile:

@@ -22,8 +22,6 @@ However, when we’re working on a larger project, we’ll need a more rigorous 
 ## Second approach
 The architecture known as the 7–1 pattern (7 folders, 1 file), is a widely-adopted structure that serves as a basis for large projects. You have all your partials organized into 7 different folders, and a single file sits at the root level (usually named main.scss) to handle the imports — which is the file you compile into CSS. 
 
-<br/>
-
 Here’s a sample 7–1 directory structure, I’ve included some examples of files that would sit inside of each folder:
 
 First of all, just check this out what is going on inside of the stylesheets folder by seeing below the pic  :point_down:

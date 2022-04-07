@@ -4,10 +4,10 @@
 - as far as second one goes is for big projects like blog sites, news sites and such a kind of projects.
 ## why do you need?
 Well, this makes your stylesheets more organized, readable and even a piece of cake to follow for any front-end developers. 
-If you don't trust in, try for free :fire:
+If you don't trust in, try for free. It is absolutely friendly open-source, so feel free to use in your project :fire:
 ## First approach
 <img src="https://user-images.githubusercontent.com/95647896/162183149-5029fc79-0839-47d1-b454-a8236967210b.png" width="70%">
-As you can see the picture, which shows the path of the stylesheet, is pretty clear to follow.
+As you can see the picture, which shows the path of the stylesheet, is pretty clear to follow right?
 
 
 ## How to follow

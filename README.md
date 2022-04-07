@@ -61,7 +61,7 @@ CSS RESET https://piccalil.li/blog/a-modern-css-reset/ <br/>
 PX TO REM https://css-tricks.com/snippets/sass/px-to-em-functions/ <br/>
 BREAKPOINTS https://github.com/nirazul/include-media-or <br/>
 
-## download it 
+## Clone/Download it 
 git clone https://github.com/itsaslanov/stylesheets.git
 
 also thanks to https://sass-guidelin.es/ 👍

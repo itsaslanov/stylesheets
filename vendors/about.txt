@@ -1,0 +1,1 @@
+This is the file in which you set CSS frameworks/libraries such as Bootstrap or jQueryUI inside of this folder 

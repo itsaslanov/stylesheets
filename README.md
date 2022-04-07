@@ -15,7 +15,7 @@ As you can see the picture, which shows the path of the stylesheet, is pretty cl
 - Main: it should ONLY contain the imports for the above files. <br/><br/>
 
 `NOTE` in this repo, only stylesheets, in which are used for big projects, exist. Hence, just do it on your own <br/>
-Create folder called whatever you want, but stylesheet sounds like cool. Right After, inside of that folder, just add 3 partials as the picture shows <br/>
+Create folder called whatever you want, but stylesheets sound like cool. Right After, inside of that folder, just add 3 partials as the picture shows <br/>
 
 However, when we’re working on a larger project, we’ll need a more rigorous architecture, which we’ll look at in the below :fire:
 

@@ -52,3 +52,6 @@ First of all, just check this out what is going on inside of the stylesheets fol
 
 <img src="https://user-images.githubusercontent.com/95647896/162190254-a5b1a1c6-3962-4f3c-8c05-93239359c5a1.png" width="70%">
 
+# Also Bonus files :fire:
+in the stylesheet file, CSS MODERN RESET, PX TO REM FUNCTIONS and BREAKPOINTS exist. that is really dope isn't it? So, what are you waiting for? Go ahead, use it :smile:
+

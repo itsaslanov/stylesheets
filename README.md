@@ -9,7 +9,7 @@
 Well, this makes your stylesheets more organized, readable and even a piece of cake to follow for any front-end developers.
 If you don't trust in, try for free. It is absolutely friendly open-source, so feel free to use in your project :fire:
 
-## First approach :rocket:
+## First approach for small projects :rocket:
 
 <img src="https://user-images.githubusercontent.com/95647896/162183149-5029fc79-0839-47d1-b454-a8236967210b.png" width="80%">
 As you can see the picture, which shows the path of the stylesheet, is pretty clear to follow right? <br/>
@@ -24,7 +24,7 @@ Create folder called whatever you want, but stylesheets sound like cool. Right A
 
 However, when we’re working on a larger project, we’ll need a more rigorous architecture, which we’ll look at in the below :fire:
 
-## Second approach :rocket:
+## Second approach for big projects :rocket:
 
 The architecture known as the 7–1 pattern (7 folders, 1 file), is a widely-adopted structure that serves as a basis for large projects. You have all your partials organized into 7 different folders, and a single file sits at the root level (usually named main.scss) to handle the imports — which is the file you compile into CSS.
 

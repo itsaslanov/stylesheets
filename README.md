@@ -4,7 +4,7 @@
 - first approach is for small projects such as a single web page, landing page etc...
 - as far as second one goes is for big projects like blog sites, news sites and such a kind of projects.
 
-## why do you need?
+## why do you need this?
 
 Well, this makes your stylesheets more organized, readable and even a piece of cake to follow for any front-end developers.
 If you don't trust in, try for free. It is absolutely friendly open-source, so feel free to use in your project :fire:
